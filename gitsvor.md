@@ -21,3 +21,5 @@ git branch -> er bara hreyfanlegur bendir(pointer) að einum af þessum framlei�
 Hvað er útgáfustýring (Version Control)? -> það er kerfi sem tekur upp breytingar í skjölum og vistar breytingarnar
 
 Hverjir eru helstu kostir við að nota GIT? -> það er meira eða minna "branching" hæfnin
+
+Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? -> strax eftir að þú ert búinn að bæta eitthverju við
