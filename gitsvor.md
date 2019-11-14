@@ -19,3 +19,5 @@ git checkout -> leyfir þér að flakka á milli "branches" sem voru búnar til 
 git branch -> er bara hreyfanlegur bendir(pointer) að einum af þessum framleiðslum
 
 Hvað er útgáfustýring (Version Control)? -> það er kerfi sem tekur upp breytingar í skjölum og vistar breytingarnar
+
+Hverjir eru helstu kostir við að nota GIT? -> það er meira eða minna "branching" hæfnin
