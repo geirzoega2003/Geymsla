@@ -17,3 +17,5 @@ Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log -> sýnir dagbók/leiðarbók af öllum skipunum sem hafa verið framleiddar í gitbash
 git checkout -> leyfir þér að flakka á milli "branches" sem voru búnar til í git
 git branch -> er bara hreyfanlegur bendir(pointer) að einum af þessum framleiðslum
+
+Hvað er útgáfustýring (Version Control)? -> það er kerfi sem tekur upp breytingar í skjölum og vistar breytingarnar
