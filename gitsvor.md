@@ -23,3 +23,5 @@ Hvað er útgáfustýring (Version Control)? -> það er kerfi sem tekur upp bre
 Hverjir eru helstu kostir við að nota GIT? -> það er meira eða minna "branching" hæfnin
 
 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? -> strax eftir að þú ert búinn að bæta eitthverju við
+
+Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? -> working directory er "regnhlíf" yfir öll skjölin. Staging area er "forsýning" af næstu framleiðslu sem þú gerir.
